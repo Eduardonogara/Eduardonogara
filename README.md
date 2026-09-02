@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=700101&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00a3ee&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=700101&size=35&center=true&vCenter=true&width=1000&lines=Eduardo+Nogara;Curso+Técnico+Em+Informática+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a3ee&size=35&center=true&vCenter=true&width=1000&lines=Eduardo+Nogara;Curso+Técnico+Em+Informática+:%29)](https://git.io/typing-svg) 
 
 <div align="center"> 
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=Eduardonogara&theme=shadow-red&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Eduardonogara&theme=windows-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
 </div>
 
@@ -23,7 +23,7 @@
 <h3 align="center">📚 Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=700101&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00a3ee&height=120&section=footer"/>
